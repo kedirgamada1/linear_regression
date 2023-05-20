@@ -1,6 +1,7 @@
-# linear_regression
+* linear_regression
+* *author Kedir G. Gamada;
 *The dataset is taken from SasHelp library;
-*The objective of this code is to create a linear regression model;
+*The objective of this code is to create a linear regression model in sas;
 
 data work.from_sas;
 	set sashelp.heart;
